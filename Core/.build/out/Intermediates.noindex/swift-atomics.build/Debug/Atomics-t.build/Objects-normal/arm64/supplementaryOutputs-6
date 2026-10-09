@@ -1,0 +1,23 @@
+{
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-atomics/Sources/Atomics/Protocols/AtomicInteger.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicInteger.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicInteger.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicInteger.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicInteger.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicInteger.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-atomics/Sources/Atomics/Protocols/AtomicOptionalWrappable.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicOptionalWrappable.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicOptionalWrappable.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicOptionalWrappable.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicOptionalWrappable.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicOptionalWrappable.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-atomics/Sources/Atomics/Protocols/AtomicReference.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicReference.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicReference.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicReference.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicReference.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-atomics.build/Debug/Atomics-t.build/Objects-normal/arm64/AtomicReference.swiftdeps"
+  }
+}

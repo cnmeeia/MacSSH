@@ -1,0 +1,44 @@
+{
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-collections/Sources/DequeModule/RigidDeque/RigidDeque+Equatable.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Equatable.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Equatable.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Equatable.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Equatable.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Equatable.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-collections/Sources/DequeModule/RigidDeque/RigidDeque+Experimental.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Experimental.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Experimental.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Experimental.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Experimental.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Experimental.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-collections/Sources/DequeModule/RigidDeque/RigidDeque+Hashable.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Hashable.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Hashable.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Hashable.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Hashable.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Hashable.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-collections/Sources/DequeModule/RigidDeque/RigidDeque+Initializers.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Initializers.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Initializers.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Initializers.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Initializers.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Initializers.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-collections/Sources/DequeModule/RigidDeque/RigidDeque+Insertions.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Insertions.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Insertions.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Insertions.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Insertions.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Insertions.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-collections/Sources/DequeModule/RigidDeque/RigidDeque+Prepend.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Prepend.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Prepend.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Prepend.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Prepend.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/DequeModule-t.build/Objects-normal/arm64/RigidDeque+Prepend.swiftdeps"
+  }
+}

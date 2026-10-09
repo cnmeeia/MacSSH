@@ -1,0 +1,65 @@
+{
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio/Sources/NIOCore/AddressedEnvelope.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AddressedEnvelope.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AddressedEnvelope.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AddressedEnvelope.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AddressedEnvelope.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AddressedEnvelope.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio/Sources/NIOCore/AsyncAwaitSupport.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncAwaitSupport.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncAwaitSupport.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncAwaitSupport.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncAwaitSupport.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncAwaitSupport.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio/Sources/NIOCore/AsyncChannel/AsyncChannel.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannel.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannel.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannel.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannel.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannel.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio/Sources/NIOCore/AsyncChannel/AsyncChannelHandler.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelHandler.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelHandler.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelHandler.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelHandler.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelHandler.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio/Sources/NIOCore/AsyncChannel/AsyncChannelInboundStream.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelInboundStream.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelInboundStream.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelInboundStream.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelInboundStream.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelInboundStream.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio/Sources/NIOCore/AsyncChannel/AsyncChannelOutboundWriter.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelOutboundWriter.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelOutboundWriter.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelOutboundWriter.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelOutboundWriter.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/AsyncChannelOutboundWriter.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio/Sources/NIOCore/AsyncSequences/NIOAsyncSequenceProducer.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncSequenceProducer.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncSequenceProducer.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncSequenceProducer.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncSequenceProducer.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncSequenceProducer.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio/Sources/NIOCore/AsyncSequences/NIOAsyncSequenceProducerStrategies.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncSequenceProducerStrategies.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncSequenceProducerStrategies.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncSequenceProducerStrategies.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncSequenceProducerStrategies.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncSequenceProducerStrategies.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio/Sources/NIOCore/AsyncSequences/NIOAsyncWriter.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncWriter.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncWriter.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncWriter.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncWriter.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio.build/Debug/NIOCore-t.build/Objects-normal/arm64/NIOAsyncWriter.swiftdeps"
+  }
+}

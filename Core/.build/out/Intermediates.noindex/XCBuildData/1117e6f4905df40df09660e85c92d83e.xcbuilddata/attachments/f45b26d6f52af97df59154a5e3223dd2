@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/sshmon-cli-p.build/Objects-normal/arm64/sshmon-cli-primary.dia",
+    "emit-module-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/sshmon-cli-p.build/Objects-normal/arm64/sshmon-cli-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/sshmon-cli-p.build/Objects-normal/arm64/sshmon-cli-primary-emit-module.dia",
+    "pch" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/sshmon-cli-p.build/Objects-normal/arm64/sshmon-cli-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/sshmon-cli-p.build/Objects-normal/arm64/sshmon-cli-primary.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/Sources/sshmon-cli/main.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/sshmon-cli-p.build/Objects-normal/arm64/main.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/sshmon-cli-p.build/Objects-normal/arm64/main.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/sshmon-cli-p.build/Objects-normal/arm64/main.dia",
+    "index-unit-output-path" : "/MonitorCore.build/Debug/sshmon-cli-p.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/sshmon-cli-p.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/sshmon-cli-p.build/Objects-normal/arm64/main.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/sshmon-cli-p.build/Objects-normal/arm64/main.swiftdeps",
+    "swiftmodule" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/sshmon-cli-p.build/Objects-normal/arm64/main~partial.swiftmodule"
+  }
+}

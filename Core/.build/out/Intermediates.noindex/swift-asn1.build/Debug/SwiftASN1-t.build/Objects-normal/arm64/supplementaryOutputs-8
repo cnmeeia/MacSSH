@@ -1,0 +1,23 @@
+{
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/ASN1BitString.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1BitString.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1BitString.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1BitString.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1BitString.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1BitString.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/ASN1Boolean.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1Boolean.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1Boolean.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1Boolean.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1Boolean.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1Boolean.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/ASN1Identifier.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1Identifier.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1Identifier.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1Identifier.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1Identifier.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-asn1.build/Debug/SwiftASN1-t.build/Objects-normal/arm64/ASN1Identifier.swiftdeps"
+  }
+}

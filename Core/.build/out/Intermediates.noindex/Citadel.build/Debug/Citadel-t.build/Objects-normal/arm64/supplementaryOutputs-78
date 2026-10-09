@@ -1,0 +1,30 @@
+{
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/Citadel/Sources/Citadel/SSHKeyTypeDetection.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SSHKeyTypeDetection.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SSHKeyTypeDetection.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SSHKeyTypeDetection.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SSHKeyTypeDetection.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SSHKeyTypeDetection.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/Citadel/Sources/Citadel/Server.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/Server.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/Server.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/Server.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/Server.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/Server.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/Citadel/Sources/Citadel/Shell/Server/ShellDelegate.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/ShellDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/ShellDelegate.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/ShellDelegate.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/ShellDelegate.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/ShellDelegate.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/Citadel/Sources/Citadel/TTY/Client/TTY.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/TTY.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/TTY.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/TTY.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/TTY.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/TTY.swiftdeps"
+  }
+}

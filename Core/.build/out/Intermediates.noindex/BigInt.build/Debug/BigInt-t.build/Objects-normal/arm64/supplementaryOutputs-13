@@ -1,0 +1,23 @@
+{
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/BigInt/Sources/Integer Conversion.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Integer Conversion.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Integer Conversion.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Integer Conversion.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Integer Conversion.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Integer Conversion.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/BigInt/Sources/Multiplication.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Multiplication.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Multiplication.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Multiplication.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Multiplication.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Multiplication.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/BigInt/Sources/Prime Test.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Prime Test.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Prime Test.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Prime Test.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Prime Test.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Prime Test.swiftdeps"
+  }
+}

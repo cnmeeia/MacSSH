@@ -1,0 +1,58 @@
+{
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-crypto/Sources/_CryptoExtras/ARC/ARCRequest.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCRequest.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCRequest.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCRequest.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCRequest.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCRequest.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-crypto/Sources/_CryptoExtras/ARC/ARCResponse.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCResponse.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCResponse.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCResponse.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCResponse.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCResponse.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-crypto/Sources/_CryptoExtras/ARC/ARCServer.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCServer.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCServer.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCServer.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCServer.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ARCServer.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-crypto/Sources/_CryptoExtras/ChaCha20CTR/BoringSSL/ChaCha20CTR_boring.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ChaCha20CTR_boring.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ChaCha20CTR_boring.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ChaCha20CTR_boring.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ChaCha20CTR_boring.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ChaCha20CTR_boring.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-crypto/Sources/_CryptoExtras/ChaCha20CTR/ChaCha20CTR.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ChaCha20CTR.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ChaCha20CTR.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ChaCha20CTR.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ChaCha20CTR.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ChaCha20CTR.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-crypto/Sources/_CryptoExtras/EC/ObjectIdentifier.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ObjectIdentifier.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ObjectIdentifier.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ObjectIdentifier.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ObjectIdentifier.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/ObjectIdentifier.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-crypto/Sources/_CryptoExtras/EC/PKCS8DERRepresentation.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/PKCS8DERRepresentation.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/PKCS8DERRepresentation.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/PKCS8DERRepresentation.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/PKCS8DERRepresentation.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/PKCS8DERRepresentation.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-crypto/Sources/_CryptoExtras/EC/PKCS8PrivateKey.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/PKCS8PrivateKey.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/PKCS8PrivateKey.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/PKCS8PrivateKey.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/PKCS8PrivateKey.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-crypto.build/Debug/_CryptoExtras-t.build/Objects-normal/arm64/PKCS8PrivateKey.swiftdeps"
+  }
+}

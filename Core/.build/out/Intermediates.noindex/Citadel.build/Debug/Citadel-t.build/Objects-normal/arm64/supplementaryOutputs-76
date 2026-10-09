@@ -1,0 +1,30 @@
+{
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/Citadel/Sources/Citadel/SFTP/SFTPMessage.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPMessage.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPMessage.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPMessage.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPMessage.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPMessage.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/Citadel/Sources/Citadel/SFTP/SFTPMessageParser.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPMessageParser.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPMessageParser.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPMessageParser.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPMessageParser.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPMessageParser.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/Citadel/Sources/Citadel/SFTP/SFTPSerializer.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPSerializer.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPSerializer.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPSerializer.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPSerializer.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPSerializer.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/Citadel/Sources/Citadel/SFTP/Server/SFTPServer.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPServer.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPServer.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPServer.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPServer.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/Citadel.build/Debug/Citadel-t.build/Objects-normal/arm64/SFTPServer.swiftdeps"
+  }
+}

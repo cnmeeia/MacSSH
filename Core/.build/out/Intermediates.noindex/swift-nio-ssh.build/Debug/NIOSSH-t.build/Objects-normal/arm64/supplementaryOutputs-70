@@ -1,0 +1,58 @@
+{
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/User Authentication/ClientUserAuthenticationDelegate.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ClientUserAuthenticationDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ClientUserAuthenticationDelegate.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ClientUserAuthenticationDelegate.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ClientUserAuthenticationDelegate.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ClientUserAuthenticationDelegate.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/User Authentication/DenyAllServerAuthDelegate.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/DenyAllServerAuthDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/DenyAllServerAuthDelegate.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/DenyAllServerAuthDelegate.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/DenyAllServerAuthDelegate.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/DenyAllServerAuthDelegate.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/User Authentication/ServerUserAuthenticationDelegate.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ServerUserAuthenticationDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ServerUserAuthenticationDelegate.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ServerUserAuthenticationDelegate.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ServerUserAuthenticationDelegate.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ServerUserAuthenticationDelegate.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/User Authentication/SimplePasswordDelegate.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SimplePasswordDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SimplePasswordDelegate.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SimplePasswordDelegate.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SimplePasswordDelegate.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SimplePasswordDelegate.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/User Authentication/UserAuthDelegate.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthDelegate.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthDelegate.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthDelegate.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthDelegate.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/User Authentication/UserAuthSignablePayload.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthSignablePayload.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthSignablePayload.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthSignablePayload.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthSignablePayload.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthSignablePayload.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/User Authentication/UserAuthenticationMethod.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthenticationMethod.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthenticationMethod.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthenticationMethod.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthenticationMethod.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthenticationMethod.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/User Authentication/UserAuthenticationStateMachine.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthenticationStateMachine.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthenticationStateMachine.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthenticationStateMachine.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthenticationStateMachine.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/UserAuthenticationStateMachine.swiftdeps"
+  }
+}

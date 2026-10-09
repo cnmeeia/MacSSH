@@ -1,0 +1,265 @@
+[
+  {
+    "isFramework" : false,
+    "moduleName" : "Atomics",
+    "modulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/Products\/Debug\/Atomics.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Combine",
+    "modulePath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/Combine.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "ContainersPreview",
+    "modulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/Products\/Debug\/ContainersPreview.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Darwin",
+    "modulePath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/Darwin.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "DequeModule",
+    "modulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/Products\/Debug\/DequeModule.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Dispatch",
+    "modulePath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/Dispatch.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "InternalCollectionsUtilities",
+    "modulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/Products\/Debug\/InternalCollectionsUtilities.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "NIOConcurrencyHelpers",
+    "modulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/Products\/Debug\/NIOConcurrencyHelpers.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "ObjectiveC",
+    "modulePath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/ObjectiveC.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Swift",
+    "modulePath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/Swift.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "SwiftOnoneSupport",
+    "modulePath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/SwiftOnoneSupport.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_Builtin_float",
+    "modulePath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/_Builtin_float.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_Concurrency",
+    "modulePath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/_Concurrency.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation1",
+    "modulePath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/_DarwinFoundation1.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation2",
+    "modulePath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/_DarwinFoundation2.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation3",
+    "modulePath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/_DarwinFoundation3.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_NIOBase64",
+    "modulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/Products\/Debug\/_NIOBase64.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_NIODataStructures",
+    "modulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/Products\/Debug\/_NIODataStructures.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_StringProcessing",
+    "modulePath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/macosx\/prebuilt-modules\/27.0\/_StringProcessing.swiftmodule\/arm64e-apple-macos.swiftmodule"
+  },
+  {
+    "clangModuleMapPath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/Intermediates.noindex\/GeneratedModuleMaps\/CNIOAtomics.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/CNIOAtomics-5JK0CNFALXJZ3OAL8NJUEJ5N3.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CNIOAtomics"
+  },
+  {
+    "clangModuleMapPath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/Intermediates.noindex\/GeneratedModuleMaps\/CNIODarwin.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/CNIODarwin-8HBBFRZXN729J1Y3SAQ7IDYVO.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CNIODarwin"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Darwin.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-6S7IH6DKCL41PLVLDIYZJ6ZVT.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Darwin"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/dispatch.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-D6PLG29353B0D4GK1ABCRL3T0.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Dispatch"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinBasic.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/MachO-7PNEXDWYPVSOWNF65V6OUWKF6.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "MachO"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/ObjectiveC.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-57DQCPHJN8VONE3997XUT2N3E.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ObjectiveC"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftShims-DG0NCKIWS2XFZGKBG6YTNUBA7.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "SwiftShims"
+  },
+  {
+    "clangModuleMapPath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/checkouts\/swift-atomics\/Sources\/_AtomicsShims\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/_AtomicsShims-BAX6VAXX1IG6JP4HTA5CP9M71.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_AtomicsShims"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/_AvailabilityInternal-5S2KJJ82ALHJMISXER95ZQJT5.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_AvailabilityInternal"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-77CTQB3SVO2PZY65YXJI4ZKWL.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_float"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_inttypes-24ZGF75ZBRSG2XCQG5YS8NWG7.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_inttypes"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_limits-1UV9E186PYWJ0CIJARU04F5TI.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_limits"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdarg-AHCG2X572C7FF3KKLP7VTM4WI.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdarg"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdbool-7N39ARWDAG7136PBU4WOHC9J5.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdbool"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stddef-BQRCPRLIPHIVV0UEVLYUWL38J.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stddef"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdint-6N8FPK7BUF0CXJE7RAQKVRGIV.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdint"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-1UMXCK03WN7HKJQRVW6Y3VL3C.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation1"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-9YCIQLJY1IZJMX8FJ4XVN35U2.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation2"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation3.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-AZSN9DMGL4Q6EPH4ICKLN5O61.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation3"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/_SwiftConcurrencyShims-QJWR4ISAVE9ATTSD9SSEAE2X.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_SwiftConcurrencyShims"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/os_object-XQ8J321BTRIG2RZCFX02KX4K.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os_object"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/os_workgroup-348X2OVVDLZ1J0VPGPGSYJLTE.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os_workgroup"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/ptrcheck-FV6CXSJD4OAES8BOYNTH0HUM.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ptrcheck"
+  },
+  {
+    "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
+    "clangModulePath" : "\/Users\/mi\/Downloads\/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon\/Core\/.build\/out\/SDKExplicitPrecompiledModules\/sys_types-CWBZRA4J4EALUE16CCAZKW2R6.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "sys_types"
+  }
+]

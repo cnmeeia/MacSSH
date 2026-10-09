@@ -1,0 +1,23 @@
+{
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/BigInt/Sources/Bitwise Ops.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Bitwise Ops.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Bitwise Ops.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Bitwise Ops.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Bitwise Ops.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Bitwise Ops.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/BigInt/Sources/Codable.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Codable.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Codable.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Codable.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Codable.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Codable.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/BigInt/Sources/Comparable.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Comparable.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Comparable.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Comparable.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Comparable.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/BigInt.build/Debug/BigInt-t.build/Objects-normal/arm64/Comparable.swiftdeps"
+  }
+}

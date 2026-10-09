@@ -1,0 +1,37 @@
+{
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-collections/Sources/ContainersPreview/Protocols/Drain+Map.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain+Map.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain+Map.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain+Map.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain+Map.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain+Map.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-collections/Sources/ContainersPreview/Protocols/Drain+Reduce.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain+Reduce.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain+Reduce.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain+Reduce.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain+Reduce.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain+Reduce.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-collections/Sources/ContainersPreview/Protocols/Drain.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Drain.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-collections/Sources/ContainersPreview/Protocols/Producer+Collect.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Producer+Collect.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Producer+Collect.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Producer+Collect.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Producer+Collect.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Producer+Collect.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-collections/Sources/ContainersPreview/Protocols/Producer+Filter.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Producer+Filter.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Producer+Filter.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Producer+Filter.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Producer+Filter.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-collections.build/Debug/ContainersPreview-t.build/Objects-normal/arm64/Producer+Filter.swiftdeps"
+  }
+}

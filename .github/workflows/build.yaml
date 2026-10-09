@@ -1,0 +1,104 @@
+# .github/workflows/ci.yml
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+    tags: ['v*']
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  core-check:
+    name: Core 语法检查 (Linux, 免费)
+    if: github.event_name == 'pull_request' || github.ref_type == 'branch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Select Swift
+        uses: swift-actions/setup-swift@v2
+        with:
+          swift-version: '6.0'
+
+      - name: Build MonitorCore
+        working-directory: Core
+        run: swift build
+
+      - name: Run tests
+        working-directory: Core
+        run: swift test
+
+  macos-build:
+    name: 构建 macOS App
+    if: github.event_name == 'workflow_dispatch' || github.ref_type == 'tag'
+    runs-on: macos-15
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Select Xcode
+        uses: maxim-lobanov/setup-xcode@v1
+        with:
+          xcode-version: latest-stable
+
+      - name: Verify Metal toolchain
+        run: xcrun --find metal && xcrun metal --version
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Generate Xcode project
+        working-directory: App
+        run: xcodegen generate
+
+      - name: Cache Swift packages
+        uses: actions/cache@v4
+        with:
+          path: .build/spm-cache
+          key: spm-${{ hashFiles('Core/Package.resolved') }}
+          restore-keys: spm-
+
+      - name: Resolve packages
+        working-directory: App
+        run: |
+          xcodebuild -project SSHMon.xcodeproj -scheme SSHMon-macOS \
+            -clonedSourcePackagesDirPath ../.build/spm-cache \
+            -resolvePackageDependencies
+
+      - name: Build
+        working-directory: App
+        run: |
+          set -o pipefail
+          xcodebuild \
+            -project SSHMon.xcodeproj \
+            -scheme SSHMon-macOS \
+            -configuration Release \
+            -destination 'platform=macOS' \
+            -derivedDataPath ../.build/derived-data \
+            -clonedSourcePackagesDirPath ../.build/spm-cache \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            build
+
+      - name: Ad-hoc sign
+        run: |
+          codesign --force --deep -s - .build/derived-data/Build/Products/Release/SSHMon-macOS.app
+
+      - name: Package zip
+        run: |
+          cd .build/derived-data/Build/Products/Release
+          ditto -c -k --keepParent SSHMon-macOS.app SSHMon-macOS.zip
+
+      - name: Upload app
+        uses: actions/upload-artifact@v4
+        with:
+          name: SSHMon-macOS${{ github.ref_type == 'tag' && format('-{0}', github.ref_name) || '' }}
+          path: .build/derived-data/Build/Products/Release/SSHMon-macOS.zip
+          retention-days: 30

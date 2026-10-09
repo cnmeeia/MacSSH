@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/MonitorCoreTests-primary.dia",
+    "emit-module-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/MonitorCoreTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/MonitorCoreTests-primary-emit-module.dia",
+    "pch" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/MonitorCoreTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/MonitorCoreTests-primary.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/Tests/MonitorCoreTests/ParserTests.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/ParserTests.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/ParserTests.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/ParserTests.dia",
+    "index-unit-output-path" : "/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/ParserTests.o",
+    "llvm-bc" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/ParserTests.bc",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/ParserTests.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/ParserTests.swiftdeps",
+    "swiftmodule" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/MonitorCore.build/Debug/MonitorCoreTests-p.build/Objects-normal/arm64/ParserTests~partial.swiftmodule"
+  }
+}

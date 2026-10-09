@@ -1,0 +1,58 @@
+{
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/Connection State Machine/Operations/SendsKeyExchangeMessages.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SendsKeyExchangeMessages.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SendsKeyExchangeMessages.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SendsKeyExchangeMessages.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SendsKeyExchangeMessages.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SendsKeyExchangeMessages.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/Connection State Machine/Operations/SendsUserAuthMessages.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SendsUserAuthMessages.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SendsUserAuthMessages.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SendsUserAuthMessages.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SendsUserAuthMessages.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SendsUserAuthMessages.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/Connection State Machine/SSHConnectionStateMachine.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SSHConnectionStateMachine.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SSHConnectionStateMachine.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SSHConnectionStateMachine.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SSHConnectionStateMachine.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/SSHConnectionStateMachine.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/Connection State Machine/States/ActiveState.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ActiveState.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ActiveState.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ActiveState.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ActiveState.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ActiveState.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/Connection State Machine/States/IdleState.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/IdleState.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/IdleState.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/IdleState.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/IdleState.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/IdleState.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/Connection State Machine/States/KeyExchangeState.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/KeyExchangeState.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/KeyExchangeState.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/KeyExchangeState.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/KeyExchangeState.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/KeyExchangeState.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/Connection State Machine/States/ReceivedKexInitWhenActiveState.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ReceivedKexInitWhenActiveState.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ReceivedKexInitWhenActiveState.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ReceivedKexInitWhenActiveState.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ReceivedKexInitWhenActiveState.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ReceivedKexInitWhenActiveState.swiftdeps"
+  },
+  "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/checkouts/swift-nio-ssh/Sources/NIOSSH/Connection State Machine/States/ReceivedNewKeysState.swift" : {
+    "const-values" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ReceivedNewKeysState.swiftconstvalues",
+    "dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ReceivedNewKeysState.d",
+    "diagnostics" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ReceivedNewKeysState.dia",
+    "object" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ReceivedNewKeysState.o",
+    "swift-dependencies" : "/Users/mi/Downloads/07350e07-80e9-453e-95a1-6f5b15fe7fe2-sshmon/Core/.build/out/Intermediates.noindex/swift-nio-ssh.build/Debug/NIOSSH-t.build/Objects-normal/arm64/ReceivedNewKeysState.swiftdeps"
+  }
+}

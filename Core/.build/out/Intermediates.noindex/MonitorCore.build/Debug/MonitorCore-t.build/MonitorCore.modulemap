@@ -1,0 +1,4 @@
+module MonitorCore {
+header "MonitorCore-Swift.h"
+export *
+}
