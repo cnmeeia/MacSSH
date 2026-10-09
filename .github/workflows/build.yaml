@@ -45,7 +45,7 @@ jobs:
       - name: Select Xcode
         uses: maxim-lobanov/setup-xcode@v1
         with:
-          xcode-version: latest-stable
+          xcode-version: '16.4'
 
       - name: Verify Metal toolchain
         run: xcrun --find metal && xcrun metal --version
@@ -85,6 +85,7 @@ jobs:
             CODE_SIGNING_ALLOWED=NO \
             CODE_SIGNING_REQUIRED=NO \
             CODE_SIGN_IDENTITY="" \
+            -skipPackagePluginValidation \
             build
 
       - name: Ad-hoc sign
@@ -101,4 +102,54 @@ jobs:
         with:
           name: SSHMon-macOS${{ github.ref_type == 'tag' && format('-{0}', github.ref_name) || '' }}
           path: .build/derived-data/Build/Products/Release/SSHMon-macOS.zip
+          retention-days: 30
+
+  ios-build:
+    name: 构建 iOS 未签名 IPA
+    if: github.event_name == 'workflow_dispatch' || github.ref_type == 'tag'
+    runs-on: macos-15
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Select Xcode
+        uses: maxim-lobanov/setup-xcode@v1
+        with:
+          xcode-version: '16.4'
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Generate Xcode project
+        working-directory: App
+        run: xcodegen generate
+
+      - name: Build (unsigned, device)
+        working-directory: App
+        run: |
+          xcodebuild \
+            -project SSHMon.xcodeproj \
+            -scheme SSHMon-iOS \
+            -configuration Release \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath ../.build/ios-dd \
+            -skipPackagePluginValidation \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            build
+
+      - name: Assemble IPA
+        run: |
+          APP=.build/ios-dd/Build/Products/Release-iphoneos/SSHMon-iOS.app
+          mkdir -p .build/ipa/Payload
+          cp -r "$APP" .build/ipa/Payload/
+          cd .build/ipa
+          zip -qr SSHMon-ios-unsigned.ipa Payload
+
+      - name: Upload IPA
+        uses: actions/upload-artifact@v4
+        with:
+          name: SSHMon-ios-unsigned${{ github.ref_type == 'tag' && format('-{0}', github.ref_name) || '' }}
+          path: .build/ipa/SSHMon-ios-unsigned.ipa
           retention-days: 30
