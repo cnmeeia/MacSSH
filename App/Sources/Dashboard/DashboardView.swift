@@ -8,26 +8,27 @@ struct DashboardView: View {
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
     var body: some View {
-        ScrollView {
-            VStack(alignment: .leading, spacing: 18) {
-                DashboardHeader(server: server, model: model)
-                if let snapshot = model.snapshot {
-                    ViewThatFits(in: .horizontal) {
-                        WideDashboard(s: snapshot, model: model).frame(minWidth: 820)
-                        NarrowDashboard(s: snapshot, model: model)
+        GeometryReader { proxy in
+            ScrollView {
+                VStack(alignment: .leading, spacing: 18) {
+                    DashboardHeader(server: server, model: model)
+                    if let snapshot = model.snapshot {
+                        if proxy.size.width >= 860 {
+                            WideDashboard(s: snapshot, model: model)
+                        } else {
+                            NarrowDashboard(s: snapshot, model: model)
+                        }
+                    } else if let error = model.error {
+                        ErrorState(message: error)
+                    } else {
+                        LoadingState()
                     }
-                    .transition(reduceMotion ? .opacity : .opacity.combined(with: .move(edge: .bottom)))
-                } else if let error = model.error {
-                    ErrorState(message: error).transition(.opacity)
-                } else {
-                    LoadingState().transition(.opacity)
                 }
+                .frame(maxWidth: .infinity, alignment: .leading)
+                .padding(20)
             }
-            .padding(20)
-            .animation(Theme.spring, value: model.snapshot == nil)
-            .animation(.snappy, value: model.snapshot?.time)   // numbers roll on every refresh
+            .scrollDismissesKeyboard(.immediately)
         }
-        .scrollDismissesKeyboard(.immediately)
         .task { await model.run() }
     }
 }
